@@ -26,8 +26,7 @@
   "devDependencies": {
     "test": "~0.x.0",
     "phantomify": "~0.x.0",
-    "repl-utils": "~1.0.0",
-    "reducible": "~1.0.1"
+    "repl-utils": "~1.0.0"
   },
   "main": "./index.js",
   "scripts": {
@@ -44,7 +43,7 @@
     }
   ],
   "dependencies": {
-    "reducers": "~2.0.0",
+    "reducers": "Raynos/reducers",
     "sample": "0.0.2"
   }
 }

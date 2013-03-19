@@ -44,6 +44,6 @@
   ],
   "dependencies": {
     "reducers": "Raynos/reducers",
-    "sample": "0.0.2"
+    "sample": "Raynos/sample-reduce"
   }
 }
